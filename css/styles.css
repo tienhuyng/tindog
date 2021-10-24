@@ -143,6 +143,10 @@ p {
     .container-fluid {
         padding: 3% 5%;
     }
+    
+    .btn {
+        font-size: 40px;
+    }
 }
 
 /* Footer */
