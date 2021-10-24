@@ -146,6 +146,23 @@ p {
     
     .btn {
         font-size: 40px;
+        padding: 15px 25px;
+    }
+
+    .big-heading {
+        font-size: 5rem;
+    }
+
+    h2 {
+        font-size: 4rem;
+    }
+
+    h3 {
+        font-size: 3rem;
+    }
+
+    p {
+        font-size: 2rem;
     }
 }
 
